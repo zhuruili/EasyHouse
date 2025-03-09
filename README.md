@@ -5,7 +5,7 @@
 ![database](https://img.shields.io/badge/database-MySQL-green)
 ![license](https://img.shields.io/badge/License-MIT-red)
 
-一个基于Flask的智能租房Web应用
+一个基于Flask的智能租房Web应用，这是我学习Flask的入门项目，或许也能帮你入门
 
 A Flask based intelligent rental web application
 
@@ -34,3 +34,9 @@ DB_USERNAME=YOUR_USERNAME
 DB_PASSWORD=YOUR_PASSWORD
 DB_DATABASE=YOUR_DATABASE
 ```
+
+---
+
+## 参考资料
+
+- 《Python Web开发项目教程（Flask版）》,黑马程序员,人民邮电出版社,2023/1
