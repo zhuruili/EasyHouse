@@ -11,7 +11,39 @@ A Flask based intelligent rental web application
 
 ---
 
-正在新建文件夹...
+## 效果展示
+
+- **标题页**
+
+<div align="center">
+    <img src="/images_in_readme/main.png" alt="标题页">
+</div>
+
+- **搜索功能**
+
+<div align="center">
+    <img src="/images_in_readme/search.png" alt="搜索功能">
+</div>
+
+- **推荐房源**
+
+<div align="center">
+    <img src="/images_in_readme/houselist.png" alt="推荐房源">
+</div>
+
+- **详情页**
+
+<div align="center">
+    <img src="/images_in_readme/detail_1.png" alt="详情页">
+</div>
+
+<div align="center">
+    <img src="/images_in_readme/detail_2.png" alt="详情页">
+</div>
+
+<div align="center">
+    <img src="/images_in_readme/detail_3.png" alt="详情页">
+</div>
 
 ---
 
