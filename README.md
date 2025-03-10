@@ -54,7 +54,7 @@ A Flask based intelligent rental web application
 你可以使用`pip`安装项目所需要的依赖：
 
 ```bash
-pip install ?
+pip install -r requirements.txt
 ```
 
 ### 数据准备
@@ -74,6 +74,10 @@ DB_USERNAME=YOUR_USERNAME
 DB_PASSWORD=YOUR_PASSWORD
 DB_DATABASE=YOUR_DATABASE
 ```
+
+### 运行文件
+
+运行根目录下的`app.py`文件，然后打开终端输出的网址`http://127.0.0.1:5000`即可看到项目的运行效果
 
 ---
 
